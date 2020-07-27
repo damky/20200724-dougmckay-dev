@@ -44,6 +44,7 @@ const Header = ({ siteTitle }) => (
             color: `#606060`,
             textDecoration: `none`,
             display: `block`,
+            transformOrigin: `left`,
           }}
         >
           {siteTitle}
@@ -52,7 +53,6 @@ const Header = ({ siteTitle }) => (
           style={{
             fontSize: `.4em`,
             fontWeight: `normal`,
-            transformOrigin: `left`,
           }}
         >
           <span>(208) 419-6001 | </span>
