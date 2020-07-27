@@ -9,6 +9,8 @@ const Header = ({ siteTitle }) => (
       background: `transparent`,
       marginBottom: `1.45rem`,
       borderBottom: `solid 2px #000000`,
+      position: `sticky`,
+      top: `0`,
     }}
   >
     <div
@@ -41,15 +43,16 @@ const Header = ({ siteTitle }) => (
           style={{
             color: `#606060`,
             textDecoration: `none`,
+            display: `block`,
           }}
         >
           {siteTitle}
         </Link>
-        <br />
         <small
           style={{
             fontSize: `.4em`,
             fontWeight: `normal`,
+            transformOrigin: `left`,
           }}
         >
           <span>(208) 419-6001 | </span>

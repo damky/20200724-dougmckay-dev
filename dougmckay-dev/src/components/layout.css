@@ -620,3 +620,21 @@ pre tt:after {
     font-size: 100%;
   }
 }
+header.down > div > a {
+  flex: 0 0 45px !important;
+}
+header.down small {
+  vertical-align: middle;
+}
+header.down h1 > a {
+  transform: scale(0);
+  position: absolute;
+}
+header.down > div {
+  padding-top: 0.45rem !important;
+  padding-bottom: 0.45rem !important;
+}
+header h1,
+header a {
+  transition: all 0.2s ease-in-out;
+}
