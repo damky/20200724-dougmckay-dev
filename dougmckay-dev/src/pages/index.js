@@ -161,11 +161,26 @@ const IndexPage = () => (
       design, illustration.
     </p>
     <SectionTitle>References</SectionTitle>
-    <p>Kama Solevad, (360) 261-1055, ksolevad@gmail.com</p>
-    <p>Josh Balleza, (503) 704-8726, joshuaballeza@gmail.com</p>
-    <p>Rosalea Peters, (503) 593-0110, 3petersfamily@gmail.com</p>
-    <p>Evan Davis, (503) 913-9991, telavir@gmail.com</p>
-    <p>Joseph Stith, (801) 201-6357, joseph@weomedia.com</p>
+    <p>
+      Kama Solevad, (360) 261-1055,{" "}
+      <Link to="mailto:ksolevad@gmail.com">ksolevad@gmail.com</Link>
+    </p>
+    <p>
+      Josh Balleza, (503) 704-8726,{" "}
+      <Link to="mailto:joshuaballeza@gmail.com">joshuaballeza@gmail.com</Link>
+    </p>
+    <p>
+      Rosalea Peters, (503) 593-0110,{" "}
+      <Link to="mailto:3petersfamily@gmail.com">3petersfamily@gmail.com</Link>
+    </p>
+    <p>
+      Evan Davis, (503) 913-9991,{" "}
+      <Link to="mailto:telavir@gmail.com">telavir@gmail.com</Link>
+    </p>
+    <p>
+      Joseph Stith, (801) 201-6357,{" "}
+      <Link to="mailto:joseph@weomedia.com">joseph@weomedia.com</Link>
+    </p>
   </Layout>
 )
 
