@@ -6,7 +6,7 @@ import Image from "./image"
 const Header = ({ siteTitle }) => (
   <header
     style={{
-      background: `transparent`,
+      background: `white`,
       marginBottom: `1.45rem`,
       borderBottom: `solid 2px #000000`,
       position: `sticky`,
