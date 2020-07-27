@@ -7,11 +7,11 @@
 let prevScrollpos = window.pageYOffset
 window.onscroll = function () {
   let currentScrollPos = window.pageYOffset
-  if (prevScrollpos > 1) {
-    document.querySelector("header").classList.add("up")
-    document.querySelector("header").classList.remove("down")
-  } else {
+  if (currentScrollPos > 0) {
     document.querySelector("header").classList.add("down")
     document.querySelector("header").classList.remove("up")
+  } else {
+    document.querySelector("header").classList.add("up")
+    document.querySelector("header").classList.remove("down")
   }
 }
