@@ -14,4 +14,5 @@ window.onscroll = function () {
     document.querySelector("header").classList.add("down")
     document.querySelector("header").classList.remove("up")
   }
+  currentScrollPos = window.pageYOffset
 }
