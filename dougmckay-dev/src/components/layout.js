@@ -23,9 +23,9 @@ const Layout = ({ children }) => {
     }
   `)
 
-  let prevScrollpos = window.pageYOffset
-  window.onscroll = function () {
-    let currentScrollPos = window.pageYOffset
+  let prevScrollpos = document.pageYOffset
+  document.onscroll = function () {
+    let currentScrollPos = document.pageYOffset
     if (prevScrollpos >= currentScrollPos) {
       document.querySelector("header").classList.add("up")
       document.querySelector("header").classList.remove("down")
