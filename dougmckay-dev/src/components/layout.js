@@ -12,6 +12,18 @@ import { useStaticQuery, graphql } from "gatsby"
 import Header from "./header"
 import "./layout.css"
 
+let prevScrollpos = window.pageYOffset
+window.onscroll = function () {
+  let currentScrollPos = window.pageYOffset
+  if (prevScrollpos >= currentScrollPos) {
+    document.querySelector("header").classList.add("up")
+    document.querySelector("header").classList.remove("down")
+  } else {
+    document.querySelector("header").classList.add("down")
+    document.querySelector("header").classList.remove("up")
+  }
+}
+
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
     query SiteTitleQuery {
@@ -22,18 +34,6 @@ const Layout = ({ children }) => {
       }
     }
   `)
-
-  let prevScrollpos = document.pageYOffset
-  document.onscroll = function () {
-    let currentScrollPos = document.pageYOffset
-    if (prevScrollpos >= currentScrollPos) {
-      document.querySelector("header").classList.add("up")
-      document.querySelector("header").classList.remove("down")
-    } else {
-      document.querySelector("header").classList.add("down")
-      document.querySelector("header").classList.remove("up")
-    }
-  }
 
   return (
     <>
