@@ -1,7 +1,8 @@
-import { Link } from "gatsby"
+// import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
-import Image from "./image"
+import Logo from "./logo"
+import { Link } from "gatsby"
 
 const Header = ({ siteTitle }) => (
   <header
@@ -28,7 +29,7 @@ const Header = ({ siteTitle }) => (
           flex: `0 0 100px`,
         }}
       >
-        <Image />
+        <Logo />
       </Link>
       <h1
         style={{

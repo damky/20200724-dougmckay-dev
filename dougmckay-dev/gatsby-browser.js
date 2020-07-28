@@ -4,7 +4,6 @@
  * See: https://www.gatsbyjs.org/docs/browser-apis/
  */
 
-let prevScrollpos = window.pageYOffset
 window.onscroll = function () {
   let currentScrollPos = window.pageYOffset
   if (currentScrollPos > 0) {

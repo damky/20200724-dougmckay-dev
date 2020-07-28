@@ -42,6 +42,7 @@ template {
 a {
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
+  color: rgb(96, 96, 96);
 }
 a:active,
 a:hover {
@@ -89,6 +90,8 @@ img {
 }
 svg:not(:root) {
   overflow: hidden;
+  width: 100%;
+  height: 100%;
 }
 code,
 kbd,
