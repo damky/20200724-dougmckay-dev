@@ -58,7 +58,7 @@ const Header = ({ siteTitle }) => (
         >
           <span>(208) 419-6001 | </span>
           <span>dougmckay.dev | </span>
-          <Link to="mailto:info@dougmckay.dev">info@dougmckay.dev</Link>
+          <a href="mailto:info@dougmckay.dev">info@dougmckay.dev</a>
           <span> | </span>
           <span>17230 SW Whitley Way, Beaverton OR 97006</span>
         </small>
