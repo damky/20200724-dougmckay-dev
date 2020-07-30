@@ -55,23 +55,33 @@ const IndexPage = () => (
     <p>
       Improved productivity through workflow manipulation and automation.
       Created resources and automated tools for front-end developers and SEO
-      Managers such as a syntax highlighter plugin for proprietary code for the
-      application SublimeText, speeding up debug time and decreasing code
-      errors. Built web-crawler/scrapers for SEO team. Onboarded, trained,
-      managed, and rolled out new processes, workflows, and software. 3x
-      recipient of Innovation award. Leader of internal "Advisors" team tasked
-      with maintaining company culture and keeping pulse on moral and wellbeing.
-      Created UI/UX prototypes and directed ongoing development of WEO Reports
-      and Content Request Automation projects. Lead research project to find a
-      solution for support team ticketing system. Designed website templates for
-      easy and quick site creation for new clients. Developed many reusable
-      components, like carousels, image galleries, SVG icons. Maintained
-      component resources, training docs, as well as maintained and supported
-      websites for 700 clients. Also refactored websites to the updated coding
-      standards. Helped our team move from developing desktop websites with
-      mobile versions to fully responsive websites. Changed design process from
-      designer only designing desktop version to designer making a plan for how
-      mobile should look while designing what desktop should look like.
+      Managers such as a submitting a Github pull request for a syntax
+      highlighter plugin I built for the code editor SublimeText, which
+      highlighted and color coded WEO’s proprietary code documents, speeding up
+      debug time and decreasing code errors. I Built web-crawler/scrapers using
+      Node JS, Google’s Puppeteer, Python, and Selenium to automate Search
+      Engine Optimization (SEO) and automate website builds. Onboarded, trained,
+      managed, and rolled out new processes, workflows, and software like Wrike
+      project management software. 3x recipient of Innovation award for
+      consistently increasing productivity on the ops team through automation,
+      workflow reorganization. Leader of internal "Advisors" team tasked with
+      maintaining company culture and keeping pulse on morale and wellbeing.
+      Created UI/UX prototypes using Photoshop/Illustrator/Figma and directed
+      ongoing development of WEO Client Reports and Content Request Automation
+      projects. I worked closely with the lead developer on the project,
+      architecting prototypes which utilized already created components. I also
+      prepped some javascript code for the developer to finish. Led research
+      project to find a solution for support team ticketing system, which
+      necessitated spinning up a LAMP stack site which solely I maintained.
+      Created website designs, built site templates, and documented build
+      process for easy and quick site creation for new clients. Developed many
+      reusable components, like carousels, image galleries, SVG icons.
+      Maintained component resources, training docs, as well as maintained and
+      supported websites for 700 clients. Refactored websites to the updated
+      coding standards. Helped our team move from developing desktop websites
+      with mobile versions to fully responsive websites. Changed design process
+      from designer only designing desktop version to designer making a plan for
+      how mobile should look while designing what desktop should look like.
       Standardized how navigations were built. Implemented the css framework
       bootstrap and trained team how to use it. My consistent communication and
       teamwork and my ability to listen well to all views and how I championed
@@ -79,12 +89,13 @@ const IndexPage = () => (
       procedure for the whole team. It was team effort but I communicated what
       each team member did to all other members so that all benefited. Created
       and maintained code standards for team of front end developers. Created
-      design component library resources for front end developers. Managed
-      DevOps team. Communicated with clients. Created image content for client
-      websites. Internal support and training in WEO system, and other
-      technology or software related issues. Lead individuals through conflict
-      resolution. Connected individuals and departments together to accomplish
-      goals and projects.
+      design component library resources for front end developers. Created
+      animated svgs. Managed DevOps team. Communicated with clients, partner
+      companies, and vendors. Created image content for client websites.
+      Internal support and training in WEO Content Management System, and other
+      technology or software related issues. Led individuals through conflict
+      resolution. I was frequently a catalyst in connecting individuals and
+      departments together to accomplish goals and projects.
     </p>
     <Skills>Skills and software Used</Skills>
     <p>
@@ -93,9 +104,10 @@ const IndexPage = () => (
       Effects, Adobe Illustrator, Adobe Photoshop, Adobe Acrobat, Figma, WEO
       CMS, Wordpress CMS, Photography, Videography, Excel, Word, Keyboard
       Maestro Macro Editor, Selenium, Puppeteer, Gimp, Slack, Digital Ocean
-      Droplets, SSH, LAMP stack, bash, shell scripting, linux, iterm2, command
-      line, hotjar, AnimateOnScroll.js, CSS animation, SVG animations,
-      imageoptim, svgator, browserstack, slides.com, uberconference
+      Droplets, SSH, LAMP stack (linux, apache, mysql, php), bash, shell
+      scripting, linux, iterm2, command line, hotjar, AnimateOnScroll.js, CSS
+      animation, SVG animations, imageoptim, svgator, browserstack, slides.com,
+      uberconference.
     </p>
     <Job>
       Jr. Web Designer: Graphic Products Inc, Tyler Ball, 9825 SW Sunshine Ct,
@@ -154,12 +166,18 @@ const IndexPage = () => (
     <SectionTitle>Hobbies and Interests</SectionTitle>
     <p>
       Owning and operating web development home business designing, developing,
-      and maintaining websites (damky.net, mahtaystyle.com,
-      jmphotography.mckay.studio). React, JAM stack, Gatsby.js and sanity.io.
-      Consulting for photography businesses. Developing web apps. Raspberry Pi
-      single board computers. Making and listening to music. Guitar, ukulele.
-      Dungeon/Game Master. Audiobooks. Tech. Video production. Art: photography,
-      design, illustration.
+      and maintaining websites (<a href="https://damky.net">damky.net</a>,{" "}
+      <a href="https://mahtaystyle.com">mahtaystyle.com</a>,{" "}
+      <a href="https://jmphotography.mckay.studio">
+        jmphotography.mckay.studio
+      </a>
+      , <a href="https://dougmckay.dev">dougmckay.dev</a>) using React, JAM
+      stack (javascript, api, markup), Gatsby.js and sanity.io. Consulting for
+      photography businesses. Developing Node JS web apps. Experimenting with
+      Raspberry Pi single board computers. Making and listening to music.
+      Playing guitar, and ukulele. Being a Dungeon/Game Master. Listening to
+      audiobooks. Staying updated with what’s new in tech. Video production and
+      motion graphics. Art: photography, design, illustration.
     </p>
     <SectionTitle>References</SectionTitle>
     <p>
