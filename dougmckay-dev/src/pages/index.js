@@ -115,9 +115,9 @@ const IndexPage = () => (
     </Job>
     <p>
       Migrated old html content to new website Drupal content management system
-      (CMS) code base. Created html email campaigns. Trained photo/video crew in
-      lighting techniques. Completed various jr. role web tasks like creating
-      landing pages.
+      (CMS) code base. Created html email campaigns and sent using Pardot and
+      Salesforce. Trained photo/video crew in lighting techniques. Completed
+      various jr. role web tasks like creating landing pages.
     </p>
     <Skills>Skills and software Used</Skills>
     <p>
