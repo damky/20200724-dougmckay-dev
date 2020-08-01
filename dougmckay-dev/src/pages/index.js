@@ -171,13 +171,15 @@ const IndexPage = () => (
       <a href="https://jmphotography.mckay.studio">
         jmphotography.mckay.studio
       </a>
-      , <a href="https://dougmckay.dev">dougmckay.dev</a>) using React, JAM
-      stack (javascript, api, markup), Gatsby.js and sanity.io. Consulting for
-      photography businesses. Developing Node JS web apps. Experimenting with
-      Raspberry Pi single board computers. Making and listening to music.
-      Playing guitar, and ukulele. Being a Dungeon/Game Master. Listening to
-      audiobooks. Staying updated with what’s new in tech. Video production and
-      motion graphics. Art: photography, design, illustration.
+      , <a href="https://dougmckay.dev">dougmckay.dev</a>,{" "}
+      <a href="https://threedragons.damky.net/">threedragons.damky.net</a>)
+      using React, JAM stack (javascript, api, markup), Gatsby.js and sanity.io.
+      Consulting for photography businesses. Developing Node JS web apps.
+      Experimenting with Raspberry Pi single board computers. Making and
+      listening to music. Playing guitar, and ukulele. Being a Dungeon/Game
+      Master. Listening to audiobooks. Staying updated with what’s new in tech.
+      Video production and motion graphics. Art: photography, design,
+      illustration.
     </p>
     <SectionTitle>References</SectionTitle>
     <p>
