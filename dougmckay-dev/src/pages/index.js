@@ -97,6 +97,29 @@ const IndexPage = () => (
       resolution. I was frequently a catalyst in connecting individuals and
       departments together to accomplish goals and projects.
     </p>
+    <h4>A Few Websites From WEO</h4>
+    <ul>
+      <li>
+        <a href="http://www.weo2.com/p/dentist-Home-p36141.asp?preview=1">
+          Rockstar Dental Semi Custom Design
+        </a>
+      </li>
+      <li>
+        <a href="http://www.weo2.com/p/Home-p36335.asp?preview=1">
+          Toothy Dental Semi Custom Design
+        </a>
+      </li>
+      <li>
+        <a href="http://www.weo2.com/p/dentist-Home-p29400.asp?preview=1">
+          Kansas Dental Semi Custom Design
+        </a>
+      </li>
+      <li>
+        <a href="http://www.online-dds.com/p/dentist-Inline-SVG-p41879.asp">
+          References and tools I created for WEO Media
+        </a>
+      </li>
+    </ul>
     <Skills>Skills and software Used</Skills>
     <p>
       Node.js, HTML, CSS, Javascript, SVG, Accessibility, Python, SublimeText,
