@@ -97,7 +97,7 @@ const IndexPage = () => (
       resolution. I was frequently a catalyst in connecting individuals and
       departments together to accomplish goals and projects.
     </p>
-    <h4>A Few Websites From WEO</h4>
+    <Skills>A Few Websites From WEO</Skills>
     <ul>
       <li>
         <a href="http://www.weo2.com/p/dentist-Home-p36141.asp?preview=1">
