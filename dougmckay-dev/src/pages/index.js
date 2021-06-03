@@ -204,27 +204,6 @@ const IndexPage = () => (
       Video production and motion graphics. Art: photography, design,
       illustration.
     </p>
-    <SectionTitle>References</SectionTitle>
-    <p>
-      Kama Solevad, (360) 261-1055,{" "}
-      <a href="mailto:ksolevad@gmail.com">ksolevad@gmail.com</a>
-    </p>
-    <p>
-      Josh Balleza, (503) 704-8726,{" "}
-      <a href="mailto:joshuaballeza@gmail.com">joshuaballeza@gmail.com</a>
-    </p>
-    <p>
-      Rosalea Peters, (503) 593-0110,{" "}
-      <a href="mailto:3petersfamily@gmail.com">3petersfamily@gmail.com</a>
-    </p>
-    <p>
-      Evan Davis, (503) 913-9991,{" "}
-      <a href="mailto:telavir@gmail.com">telavir@gmail.com</a>
-    </p>
-    <p>
-      Joseph Stith, (801) 201-6357,{" "}
-      <a href="mailto:joseph@weomedia.com">joseph@weomedia.com</a>
-    </p>
   </Layout>
 )
 
